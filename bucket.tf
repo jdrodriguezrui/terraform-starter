@@ -5,3 +5,4 @@ resource "google_storage_bucket" "test" {
   storage_class = "REGIONAL"
   force_destroy = true
 }
+
